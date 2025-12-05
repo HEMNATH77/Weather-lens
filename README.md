@@ -6,6 +6,7 @@ A simple and user-friendly weather application built using **HTML**, **CSS**, an
 ---
 
 
+
 ## 🚀 Features
 
 * 🔍 Search weather by city name
